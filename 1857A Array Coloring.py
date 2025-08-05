@@ -8,4 +8,4 @@ for _ in range(t):
     if c%2==0:
         print("YES")
     else:
-        print("NO")
+        print("no")  
